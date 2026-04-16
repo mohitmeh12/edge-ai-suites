@@ -151,7 +151,6 @@ cd /opt/ros/humble/share/pyrealsense2-ai-demo
 :::
 ::::
 
-Go to /opt/ros/`ros-distro`/share/pyrealsense2-ai-demo
 
 ```bash
 uv sync
